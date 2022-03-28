@@ -35,6 +35,10 @@ ExceptionHandler 에서는 사용자가 만든 예외처리실행<br><hr>
 ![image](https://user-images.githubusercontent.com/100080583/160406703-eb0fc469-d30c-4ef2-a7ae-fcefb17e9e1b.png)<br><br>
 사용자 정의 예외처리함수<br><hr>
 
+![image](https://user-images.githubusercontent.com/100080583/160408067-b2f07e9e-eed8-48d6-bba7-4d6fea8f738a.png)<br><br>
+잘못된 값 입력시 alert창 표시<br><hr>
+
+
 
 <br><br><br>
 <br><hr>
