@@ -10,6 +10,7 @@ __핵심 기술__<br>
 <ul>
 
    <li>Spring Security 를 이용한 회원가입 및 로그인</li>
+   <li>ExceptionHandler를 이용한 예외처리</li>
 
 </ul>
 
@@ -22,8 +23,17 @@ csrf 토큰 비활성화및 인증페이지 셋팅<br><hr>
 ![image](https://user-images.githubusercontent.com/100080583/160394130-2a8ec12a-c6cb-4dae-8c56-cf42a4af53d0.png)<br><br>
 BcryptPasswordEncoder 이용하여 암호화 회원가입 진행<br><hr>
 
-## 기술 설명 (Spring Security 를 이용한 로그인)
+## 기술 설명 (ExceptionHandler를 이용한 예외처리)
 
+
+![image](https://user-images.githubusercontent.com/100080583/160406496-5a8ed359-d9d0-425f-bfe3-cfc13d9013f2.png)<br><br>
+회원가입시 validation 체크를 위해 예외처리를 진행<br><hr>
+
+![image](https://user-images.githubusercontent.com/100080583/160406570-fe69cfe6-18ee-4d13-aec4-37aaf829290d.png)<br><br>
+ExceptionHandler 에서는 사용자가 커스텀한 예외처리실행<br><hr>
+
+![image](https://user-images.githubusercontent.com/100080583/160406703-eb0fc469-d30c-4ef2-a7ae-fcefb17e9e1b.png)<br><br>
+사용자 정의 예외처리함수<br><hr>
 
 
 <br><br><br>
