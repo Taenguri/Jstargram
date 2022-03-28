@@ -29,7 +29,7 @@ BcryptPasswordEncoder 이용하여 암호화 회원가입 진행<br><hr>
 ![image](https://user-images.githubusercontent.com/100080583/160406496-5a8ed359-d9d0-425f-bfe3-cfc13d9013f2.png)<br><br>
 회원가입시 validation 체크를 위해 예외처리를 진행<br><hr>
 
-![image](https://user-images.githubusercontent.com/100080583/160406570-fe69cfe6-18ee-4d13-aec4-37aaf829290d.png)<br><br>
+![image](https://user-images.githubusercontent.com/100080583/160407962-05947769-d4d0-4208-8c3a-ab77d30d6d74.png)<br><br>
 ExceptionHandler 에서는 사용자가 만든 예외처리실행<br><hr>
 
 ![image](https://user-images.githubusercontent.com/100080583/160406703-eb0fc469-d30c-4ef2-a7ae-fcefb17e9e1b.png)<br><br>
