@@ -20,9 +20,9 @@ __핵심 기술__<br>
 csrf 토큰 비활성화및 인증페이지 셋팅<br><hr>
 
 ![image](https://user-images.githubusercontent.com/100080583/160394130-2a8ec12a-c6cb-4dae-8c56-cf42a4af53d0.png)<br><br>
-Bcryptpasswordencoder 이용하여 암호화 회원가입 진행<br><hr>
+BcryptPasswordEncoder 이용하여 암호화 회원가입 진행<br><hr>
 
-
+## 기술 설명 (Spring Security 를 이용한 로그인)
 
 
 
